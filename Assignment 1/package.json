@@ -1,0 +1,16 @@
+{
+  "name": "assignement-1",
+  "version": "1.0.0",
+  "description": "Coursera / Server-side Development with NodeJS / Assignement 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinícius Tabille Manjabosco",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}

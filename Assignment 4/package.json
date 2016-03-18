@@ -1,0 +1,27 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "Coursera / Server-side Development with NodeJS / Assignement 1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "Vinícius Tabille Manjabosco",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.7",
+    "mongoose-currency": "^0.2.0",
+    "morgan": "~1.6.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.0.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
